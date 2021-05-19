@@ -1,4 +1,4 @@
-WEATHER REACT APP
+# WEATHER REACT APP
 
 This is a weather app made with React and OpenWeather API.
 
